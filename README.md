@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**Jhormancastella/jhormancastella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am currently working on html and css and basic software skills.
 - 🌱 I am currently learning git and github. 
 - 👯 looking to collaborate on everything.
