@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am currently working on javascript and basic software skills.
+- 🔭 I am currently working on javascript and database basic software skills.
 - 🌱 I am currently learning git and github. 
 - 👯 looking to collaborate on everything.
 - 🤔 I am looking for help with logic in python and java and javascrit .
