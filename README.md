@@ -22,7 +22,7 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/DiegoAlexanderGarcia?label=Follow&style=social)](https://github.com/DiegoAlexanderGarcia)
+[![GitHub followers](https://img.shields.io/github/followers/DiegoAlexanderGarcia?label=Follow&style=social)]([https://github.com/DiegoAlexanderGarcia](https://github.com/Jhormancastella))
 
 </div>
 
@@ -94,8 +94,8 @@ Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir má
 ## 🚀 Proyectos Destacados
 
 
-### [📊 Proyecto de Seguimiento Académico - Python](https://github.com/CamiloMachuca/Proyecto_pythom_MachucaCamilo_GarciaDiego.git)  
-*Descripción*: Aplicación desarrollada en Python para realizar el seguimiento académico de los estudiantes en un campamento de formación. El proyecto permite gestionar los registros de los estudiantes y realizar filtros para obtener información relevante.
+### [📊 Proyecto de Seguimiento Académico - Python]([https://github.com/CamiloMachuca/Proyecto_pythom_MachucaCamilo_GarciaDiego.git](https://github.com/Jhormancastella/TrabajoPython_-jhormanjesuscastellanosmorales))  
+*Descripción*: Este proyecto tiene como objetivo desarrollar de un programa en pytho que ayude con la gestion de ventas y compras y reportes.
 
 ### [🔧 Proyecto de Gestión de Proyectos - Frontend](https://github.com/JhonatanOmana/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN.git)  
 *Descripción*: Desarrollo de una interfaz frontend que permite gestionar proyectos y visualizar los módulos de una empresa. Se implementó una estructura para facilitar la administración y el manejo de proyectos dentro de una organización.
