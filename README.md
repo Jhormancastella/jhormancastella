@@ -115,7 +115,7 @@ Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir má
 
 ----
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue)](https://git.io/streak-stats)	
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue" alt="GitHub Streak" /></a>
 </p>
 
 </details>
