@@ -114,10 +114,9 @@ Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir má
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue)](https://git.io/streak-stats)
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhormancastella&theme=tokyonight_duo" alt="Jhormancastella
-" /></p>
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue)](https://git.io/streak-stats)	
+</p>
 
 </details>
   
