@@ -126,8 +126,9 @@ Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir má
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiegoAlexanderGarcia&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAlexanderGarcia&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="DiegoAlexanderGarcia" height="230px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhormancastella&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhormancastella&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jhormancastella" height="230px"/>
+	
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
