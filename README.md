@@ -104,18 +104,19 @@ Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir má
 
 ## 📫 ¿Cómo Contactarme?
 
-- 📧 [Correo electrónico](mailto:dggarcia855@gmail.com)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/diego-alexander-garcia-rodriguez-a7a780321/) 
+- 📧 [Correo electrónico](mailto:jesusjhorman123@gmail.com)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/) 
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 60px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue)](https://git.io/streak-stats)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAlexanderGarcia&theme=tokyonight_duo" alt="DiegoAlexanderGarcia
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhormancastella&theme=tokyonight_duo" alt="Jhormancastella
 " /></p>
 
 </details>
