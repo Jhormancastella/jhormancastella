@@ -1,139 +1,72 @@
-## Hi there 👋
+# Hola, soy Jhorman Jesús Castellanos Morales 👋 | Hi, I'm Jhorman Jesús Castellanos Morales 👋
 
-- 🔭 I am currently working on javascript and database basic software skills.
-- 🌱 I am currently learning git and github. 
-- 👯 looking to collaborate on everything.
-- 🤔 I am looking for help with logic in python and java and javascrit .
-- 💬 Ask me about photoshop and video games and system optimization ( specifically on installs ).
-- 📫 How to contact me: facebook or whatsapp in progres.
-- 😄 Pronouns: ...
-- ⚡ Fun fact:  partial physical motor disability in the lower part of the body and high sensitivity or tolerance to pain
+## 🌎 Español | English 🌎
 
-- <p align = "center">
-![f5baef4b6b6677020ab8d091ef78a3bc](https://github.com/user-attachments/assets/5ea7c6fb-2819-41db-abec-9c97a750e68e)
-</p>
+### Español 🇪🇸
+
+- 🔭 Actualmente trabajo en **JavaScript** y habilidades básicas de **bases de datos**.
+- 🌱 Estoy aprendiendo **Git y GitHub**.
+- 👯 Busco colaborar en **proyectos interesantes**.
+- 🤔 Necesito ayuda con **lógica en Python, Java y JavaScript**.
+- 💬 Pregúntame sobre **Photoshop, videojuegos y optimización de sistemas (especialmente instalaciones)**.
+- 📫 Puedes contactarme en **Facebook** o **WhatsApp** (en desarrollo).
+- ⚡ Dato curioso: Tengo una discapacidad motora parcial en la parte inferior del cuerpo y una alta tolerancia al dolor.
+
+---
+
+### English 🇺🇸
+
+- 🔭 I’m currently working on **JavaScript** and **basic database** skills.
+- 🌱 I’m currently learning **Git and GitHub**.
+- 👯 I’m looking to collaborate on **interesting projects**.
+- 🤔 I need help with **logic in Python, Java, and JavaScript**.
+- 💬 Ask me about **Photoshop, video games, and system optimization (especially installs)**.
+- 📫 You can contact me on **Facebook** or **WhatsApp** (coming soon).
+- ⚡ Fun fact: I have a partial motor disability in the lower body and high pain tolerance.
+
+---
+
 <div align="center">
-	
-### Hola soy Jhorman Jesus Castellanos Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+  <h2>Acerca de mí | About Me</h2>
 </div>
 
-<br>
+### Español 🇪🇸
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/DiegoAlexanderGarcia?label=Follow&style=social)]([https://github.com/DiegoAlexanderGarcia](https://github.com/Jhormancastella))
+Soy un **Desarrollador Fullstack Junior** con experiencia en **desarrollo web** y una orientación hacia soluciones escalables. Actualmente, estoy formándome y he trabajado con tecnologías como **HTML, CSS, JavaScript y MySQL**.  
+Estoy interesado en aprender más sobre **backend** y **bases de datos** para desarrollar aplicaciones completas. También cuento con experiencia usando **Git y GitHub**, colaborando en equipo y gestionando flujos de trabajo organizados.
 
-</div>
+### English 🇺🇸
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+I’m a **Junior Fullstack Developer** with experience in **web development** and a focus on scalable solutions. I’m currently training and have worked with technologies like **HTML, CSS, JavaScript, and MySQL**.  
+I’m interested in learning more about **backend development** and **databases** to build complete applications. I also have experience with **Git and GitHub**, collaborating in teams, and managing organized workflows.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+---
 
-Soy *Desarrollador Fullstack Junior* con experiencia en el desarrollo web y una fuerte orientación hacia la creación de soluciones escalables. Actualmente me encuentro en proceso de formación continua y he trabajado con tecnologías como *HTML, **CSS, **JavaScript, y **MySQL*. 
+## 🌐 Tecnologías | Technologies
 
-Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir más conocimientos para desarrollar aplicaciones completas y robustas. Además, cuento con experiencia en el uso de **Git* y *GitHub, lo que me permite colaborar de manera eficiente en proyectos de equipo y mantener un flujo de trabajo organizado. Me apasionan las **metodologías ágiles* (especialmente *Scrum*), lo que me permite adaptarme rápidamente a entornos dinámicos y gestionarme de manera efectiva en proyectos colaborativos.
+### Frontend
 
-## 🔧 Habilidades Técnicas
-
-<details><summary>
-
-### 🌐 Frontend 
-</summary>
-
-- *HTML*  
+- HTML  
   ![HTML](https://img.shields.io/badge/HTML-5-FF5733?logo=html5)
-- *CSS*  
+- CSS  
   ![CSS](https://img.shields.io/badge/CSS-3-2965F1?logo=css3)
-- *JavaScript*  
+- JavaScript  
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
 
-</details>
+### Backend
 
-<details><summary>
-	
-### 🔙 Backend (Introducción)
-</summary>
-
-- *MySQL*  
+- MySQL  
   ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
-- *Version Control (Git)*  
-  ![Version Control](https://img.shields.io/badge/Version%20Control-Git-4C1B8A?logo=git)
 
-</details>
+### Herramientas | Tools
 
-<details><summary>
-
-### ⚙ Herramientas & Tecnologías
-</summary>
-
-- *Git* y *GitHub* (Control de versiones)  
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+- Git y GitHub  
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- *VS Code* (Editor de código)  
+- VS Code  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-- *MySQL Workbench* (Gestión de bases de datos)  
+- MySQL Workbench  
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
-
-</details>
-
-<details><summary>
-
-### 🛠 Metodologías Ágiles
-</summary>
-
-- *Scrum*  
-  ![Scrum](https://img.shields.io/badge/Scrum-FF6600?logo=trello&logoColor=white)
-- *Kanban*  
-  ![Kanban](https://img.shields.io/badge/Kanban-0079BF?logo=trello&logoColor=white)
-
-</details>
-
-
-  
-## 🚀 Proyectos Destacados
-
-
-### [📊 Proyecto de Seguimiento Académico - Python]([https://github.com/CamiloMachuca/Proyecto_pythom_MachucaCamilo_GarciaDiego.git](https://github.com/Jhormancastella/TrabajoPython_-jhormanjesuscastellanosmorales))  
-*Descripción*: Este proyecto tiene como objetivo desarrollar de un programa en pytho que ayude con la gestion de ventas y compras y reportes.
-
-### [🔧 Proyecto de Gestión de Proyectos - Frontend](https://github.com/JhonatanOmana/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN.git)  
-*Descripción*: Desarrollo de una interfaz frontend que permite gestionar proyectos y visualizar los módulos de una empresa. Se implementó una estructura para facilitar la administración y el manejo de proyectos dentro de una organización.
-
-
-
-## 📫 ¿Cómo Contactarme?
-
-- 📧 [Correo electrónico](mailto:jesusjhorman123@gmail.com)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/) 
-
-
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 60px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue" alt="GitHub Streak" /></a>
-</p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhormancastella&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhormancastella&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jhormancastella" height="230px"/>
-	
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
 	
 <details>
@@ -161,19 +94,65 @@ Mi interés se extiende al *backend* y *bases de datos, donde busco adquirir má
   </div>
 </details>
 
+---
 
-## 🌱 Mi Objetivo
+## 🚀 Proyectos Destacados | Featured Projects
 
-Mi objetivo es seguir aprendiendo y creciendo como desarrollador Fullstack, ampliando mis conocimientos en el desarrollo backend y la gestión de bases de datos. Estoy en busca de oportunidades para colaborar en proyectos reales, aplicar mis habilidades en entornos de trabajo ágiles, y aportar valor al equipo con mis contribuciones.
+### Español 🇪🇸
 
-Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
+- **[📊 Seguimiento Académico - Python](https://github.com/Jhormancastella/TrabajoPython_-jhormanjesuscastellanosmorales)**  
+  Proyecto para gestionar ventas, compras y generar reportes utilizando Python.
+
+- **[🔧 Gestión de Proyectos - Frontend](https://github.com/Jhormancastella/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN)**  
+  Interfaz frontend para administrar proyectos y visualizar módulos empresariales.
+
+### English 🇺🇸
+
+- **[📊 Academic Tracking - Python](https://github.com/Jhormancastella/TrabajoPython_-jhormanjesuscastellanosmorales)**  
+  A project to manage sales, purchases, and generate reports using Python.
+
+- **[🔧 Project Management - Frontend](https://github.com/Jhormancastella/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN)**  
+  A frontend interface for managing projects and visualizing company modules.
 
 ---
 
-</br></br>
-	
+<div align="center">
+  <h2>📫 Contacto | Contact</h2>
+</div>
+
+- 📧 [Correo electrónico | Email](mailto:jesusjhorman123@gmail.com)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/)  
+
+---
+
+<div align="center">
+  <h2>📈 Estadísticas de GitHub | GitHub Stats</h2>
+</div>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Jhormancastella&theme=dark&hide_border=true&locale=es&exclude_days=Tue" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jhormancastella&show_icons=true&locale=es&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhormancastella&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+  <p>🌱 Siempre aprendiendo y abierto a nuevas oportunidades | Always learning and open to new opportunities 🌱</p>
+</div>
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<p align = "center">
+Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
 </p>
