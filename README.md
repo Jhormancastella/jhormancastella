@@ -156,32 +156,3 @@ I’m interested in learning more about **backend development** and **databases*
 <p align = "center">
 Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
 </p>
-# Animación de Pac-Man
-
-¡Mira cómo se mueve Pac-Man!
-
-<div align="center">
-  <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" class="pacman-svg">
-    <circle cx="50" cy="50" r="40" fill="yellow" class="pacman"/>
-    <path d="M50,10 A40,40 0 0,1 90,50 L50,50 Z" fill="yellow" class="pacman-mouth"/>
-    <circle cx="70" cy="30" r="5" fill="black" />
-  </svg>
-</div>
-
-<style>
-.pacman-svg {
-  animation: move 2s linear infinite;
-}
-
-@keyframes move {
-  0% {
-    transform: translateX(0);
-  }
-  50% {
-    transform: translateX(50%);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
-</style>
