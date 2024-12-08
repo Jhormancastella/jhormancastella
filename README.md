@@ -148,6 +148,9 @@ I’m interested in learning more about **backend development** and **databases*
   <p>🌱 Siempre aprendiendo y abierto a nuevas oportunidades | Always learning and open to new opportunities 🌱</p>
 </div>
 
+![pac-manGithub](https://github.com/user-attachments/assets/dc0b2342-766a-4e1a-ae46-e636f09129c9)
+
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
