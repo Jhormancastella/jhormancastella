@@ -121,7 +121,7 @@ I’m interested in learning more about **backend development** and **databases*
 </div>
 
 - 📧 [Correo electrónico | Email](mailto:jesusjhorman123@gmail.com)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/)  
+- 💬 [LinkedIn]([https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
 
 ---
 
