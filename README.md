@@ -150,13 +150,5 @@ I’m interested in learning more about **backend development** and **databases*
 
 ![pac-manGithub](https://github.com/user-attachments/assets/94cba98b-42ff-4499-875e-30e8f29e8a3a)
 
-
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-<p align = "center">
 Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
 </p>
