@@ -1,5 +1,7 @@
 # Hola, soy Jhorman Jesús Castellanos Morales 👋 | Hi, I'm Jhorman Jesús Castellanos Morales 👋
 
+📊 ![Visitas](https://komarev.com/ghpvc/?username=Jhormancastella&style=flat)
+
 ## 🌎 Español | English 🌎
 
 ### Español 🇪🇸
