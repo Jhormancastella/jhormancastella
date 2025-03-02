@@ -6,7 +6,7 @@
 
 ### Español 🇪🇸
 
-- 🔭 Actualmente trabajo en **JavaScript** y habilidades básicas de **bases de datos**.
+- 🔭 Actualmente trabajo en **Java** y habilidades básicas de **bases de datos**.
 - 🌱 Estoy aprendiendo **Git y GitHub**.
 - 👯 Busco colaborar en **proyectos interesantes**.
 - 🤔 Necesito ayuda con **lógica en Python, Java y JavaScript**.
@@ -18,7 +18,7 @@
 
 ### English 🇺🇸
 
-- 🔭 I’m currently working on **JavaScript** and **basic database** skills.
+- 🔭 I’m currently working on **Java** and **basic database** skills.
 - 🌱 I’m currently learning **Git and GitHub**.
 - 👯 I’m looking to collaborate on **interesting projects**.
 - 🤔 I need help with **logic in Python, Java, and JavaScript**.
@@ -69,15 +69,13 @@ I’m interested in learning more about **backend development** and **databases*
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 - MySQL Workbench  
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
-
-	
+																						
 <details>
   <summary>
     <h3> :open_file_folder: Mis Repositorios </h3>
   </summary>
 
   ----
-
   <div>
     <p align="center">
       <a href="https://github.com/Jhormancastella/CalsadosTibu-pendiente-">
@@ -122,8 +120,11 @@ I’m interested in learning more about **backend development** and **databases*
   <h2>📫 Contacto | Contact</h2>
 </div>
 
-- 📧 [Correo electrónico | Email](mailto:jesusjhorman123@gmail.com)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/)  
+- 📧 [Correo electrónico | Email](mailto:jesusjhorman123@gmail.com)
+  
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhorman-jesus-castellanos-morales-245b97261/" height="30" width="40" /></a>
+</p>
 
 ---
 
