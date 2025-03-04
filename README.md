@@ -94,25 +94,6 @@ I’m interested in learning more about **backend development** and **databases*
   </div>
 </details>
 
----
-
-## 🚀 Proyectos Destacados | Featured Projects
-
-### Español 🇪🇸
-
-- **[📊 Seguimiento Académico - Python](https://github.com/Jhormancastella/TrabajoPython_-jhormanjesuscastellanosmorales)**  
-  Proyecto para gestionar ventas, compras y generar reportes utilizando Python.
-
-- **[🔧 Gestión de Proyectos - Frontend](https://github.com/Jhormancastella/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN)**  
-  Interfaz frontend para administrar proyectos y visualizar módulos empresariales.
-
-### English 🇺🇸
-
-- **[📊 Academic Tracking - Python](https://github.com/Jhormancastella/TrabajoPython_-jhormanjesuscastellanosmorales)**  
-  A project to manage sales, purchases, and generate reports using Python.
-
-- **[🔧 Project Management - Frontend](https://github.com/Jhormancastella/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN)**  
-  A frontend interface for managing projects and visualizing company modules.
 
 ---
 
