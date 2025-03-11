@@ -4,29 +4,15 @@
 
 ## 🌎 Español | English 🌎
 
-### Español 🇪🇸
-
-- 🔭 Actualmente trabajo en **Java** y habilidades básicas de **bases de datos**.
-- 🌱 Estoy aprendiendo **Git y GitHub**.
-- 👯 Busco colaborar en **proyectos interesantes**.
-- 🤔 Necesito ayuda con **lógica en Python, Java y JavaScript**.
-- 💬 Pregúntame sobre **Photoshop, videojuegos y optimización de sistemas (especialmente instalaciones)**.
-- 📫 Puedes contactarme en **Facebook** o **WhatsApp** (en desarrollo).
-- ⚡ Dato curioso: Tengo una discapacidad motora parcial en la parte inferior del cuerpo y una alta tolerancia al dolor.
-
----
-
-### English 🇺🇸
-
-- 🔭 I’m currently working on **Java** and **basic database** skills.
-- 🌱 I’m currently learning **Git and GitHub**.
-- 👯 I’m looking to collaborate on **interesting projects**.
-- 🤔 I need help with **logic in Python, Java, and JavaScript**.
-- 💬 Ask me about **Photoshop, video games, and system optimization (especially installs)**.
-- 📫 You can contact me on **Facebook** or **WhatsApp** (coming soon).
-- ⚡ Fun fact: I have a partial motor disability in the lower body and high pain tolerance.
-
----
+| Español 🇪🇸                                                                 | English 🇺🇸                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| - 🔭 Actualmente trabajo en **Java** y habilidades básicas de **bases de datos**. | - 🔭 I’m currently working on **Java** and **basic database** skills.     |
+| - 🌱 Estoy aprendiendo **Git y GitHub**.                                   | - 🌱 I’m currently learning **Git and GitHub**.                           |
+| - 👯 Busco colaborar en **proyectos interesantes**.                        | - 👯 I’m looking to collaborate on **interesting projects**.              |
+| - 🤔 Necesito ayuda con **lógica en Python, Java y JavaScript**.           | - 🤔 I need help with **logic in Python, Java, and JavaScript**.          |
+| - 💬 Pregúntame sobre **Photoshop, videojuegos y optimización de sistemas (especialmente instalaciones)**. | - 💬 Ask me about **Photoshop, video games, and system optimization (especially installs)**. |
+| - 📫 Puedes contactarme en **Facebook** o **WhatsApp** (en desarrollo).    | - 📫 You can contact me on **Facebook** or **WhatsApp** (coming soon).    |
+| - ⚡ Dato curioso: Tengo una discapacidad motora parcial en la parte inferior del cuerpo y una alta tolerancia al dolor. | - ⚡ Fun fact: I have a partial motor disability in the lower body and high pain tolerance. |
 
 <div align="center">
   <h2>Acerca de mí | About Me</h2>
