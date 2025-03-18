@@ -40,11 +40,21 @@ I’m interested in learning more about **backend development** and **databases*
   ![CSS](https://img.shields.io/badge/CSS-3-2965F1?logo=css3)
 - JavaScript  
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
-
+- Photoshop  
+  ![Photoshop](https://img.shields.io/badge/Photoshop-CC-31A8FF?logo=adobe-photoshop)
+- Figma  
+  ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma)
+  
 ### Backend
 
-- MySQL  
-  ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
+- C#  
+  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+- Java  
+  ![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)
+- Python  
+  ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+- PSeInt  
+  ![PSeInt](https://img.shields.io/badge/PSeInt-Algorithm-00B0F0?logo=pseint)
 
 ### Herramientas | Tools
 
@@ -53,6 +63,8 @@ I’m interested in learning more about **backend development** and **databases*
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 - VS Code  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+- MySQL  
+  ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
 - MySQL Workbench  
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
 																						
