@@ -30,44 +30,19 @@ I’m interested in learning more about **backend development** and **databases*
 
 ---
 
-## 🌐 Tecnologías | Technologies
+## 🌐 Tecnologías
 
-### Frontend
+| **Frontend**                                                                 | **Backend**                                                                 | **Herramientas**                                                             |         
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| ![HTML](https://img.shields.io/badge/HTML-5-FF5733?logo=html5)        | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | 
+| -![CSS](https://img.shields.io/badge/CSS-3-2965F1?logo=css3)            | ![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white) |![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | 
+|![JS](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript) |![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white) |![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)   |
+|![PS](https://img.shields.io/badge/Photoshop-CC-31A8FF?logo=adobe-photoshop) |![PSeInt](https://img.shields.io/badge/PSeInt-Algorithm-00B0F0?logo=pseint) |![Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white) | 
+|![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma) |                                                                              |
 
-- HTML  
-  ![HTML](https://img.shields.io/badge/HTML-5-FF5733?logo=html5)
-- CSS  
-  ![CSS](https://img.shields.io/badge/CSS-3-2965F1?logo=css3)
-- JavaScript  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
-- Photoshop  
-  ![Photoshop](https://img.shields.io/badge/Photoshop-CC-31A8FF?logo=adobe-photoshop)
-- Figma  
-  ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma)
-  
-### Backend
+---
 
-- C#  
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-- Java  
-  ![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)
-- Python  
-  ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-- PSeInt  
-  ![PSeInt](https://img.shields.io/badge/PSeInt-Algorithm-00B0F0?logo=pseint)
-
-### Herramientas | Tools
-
-- Git y GitHub  
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- VS Code  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-- MySQL  
-  ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
-- MySQL Workbench  
-  ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
-																						
+¿Quieres que te lo pase también en HTML o con estilos especiales?																				
 <details>
   <summary>
     <h3> :open_file_folder: Mis Repositorios </h3>
