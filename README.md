@@ -40,9 +40,7 @@ I’m interested in learning more about **backend development** and **databases*
 |![PS](https://img.shields.io/badge/Photoshop-CC-31A8FF?logo=adobe-photoshop) |![PSeInt](https://img.shields.io/badge/PSeInt-Algorithm-00B0F0?logo=pseint) |![Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white) | 
 |![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma) |                                                                              |
 
----
-
-¿Quieres que te lo pase también en HTML o con estilos especiales?																				
+---																		
 <details>
   <summary>
     <h3> :open_file_folder: Mis Repositorios </h3>
