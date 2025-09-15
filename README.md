@@ -1,6 +1,9 @@
 # Hola, soy Jhorman Jesús Castellanos Morales 👋 | Hi, I'm Jhorman Jesús Castellanos Morales 👋
 
-📊 ![Visitas](https://komarev.com/ghpvc/?username=Jhormancastella&style=flat)
+📊 ![Visitas](https://komarev.com/ghpvc/?username=Jhormancastella&style=flat) 
+## 🚀 web-mini-juego
+
+[![Jugar Ahora](https://img.shields.io/badge/Jugar-Ahora!-red?style=for-the-badge&logo=matrix)](https://jhormancastella.github.io/Red-or-Blue/)
 
 ## 🌎 Español | English 🌎
 
